@@ -8,5 +8,5 @@ RUN wget https://raw.githubusercontent.com/capside/docker-webinar-azure/master/w
 #A linked container could access to this port
 EXPOSE 8888
 
-CMD ["/node/bin/node", "RiverSongWebservice.js"]    
+CMD ["/node/bin/node", "webservice.js"]    
 
