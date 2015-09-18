@@ -1,4 +1,4 @@
-FROM capside/nodejs:1036 
+FROM capside/nodejs:v4.1.0
 MAINTAINER Javi Moreno <javi.moreno@capside.com>
 
 
